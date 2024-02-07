@@ -1,4 +1,4 @@
-# Emotion-Analysis---Machine-Learning
+# EmoSense-EmotionAnalysis-Machine-Learning
 
 1.Import Python Libraries :
 
