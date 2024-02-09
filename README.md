@@ -13,7 +13,10 @@
     from sklearn.metrics import accuracy_score
     from sklearn.preprocessing import LabelEncoder
 
-2. Extraction of sound features:
+
+2. CREMA = '/content/drive/MyDrive/CREMA-D/AudioWAV/'
+
+3. Extraction of sound features:
   
 ```
     def extract_feature(file_name, **kwargs):
