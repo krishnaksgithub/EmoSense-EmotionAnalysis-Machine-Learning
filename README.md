@@ -14,7 +14,7 @@
     from sklearn.preprocessing import LabelEncoder
 
 
-2. CREMA = '/content/drive/MyDrive/CREMA-D/AudioWAV/'
+2. ``` CREMA = '/content/drive/MyDrive/CREMA-D/AudioWAV/' ```
 
 3. Extraction of sound features:
   
